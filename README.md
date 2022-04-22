@@ -2,7 +2,7 @@
 APP PARA RESCATE Y ADOPCION DE MASCOTAS
 
 ------------ EJECUTAR EN ORDEN --------------------
-OJO OJO OJO en la terminal cd  carpteta donde se encuentra el proyercto y ejecutas.
+OJO OJO OJO en la terminal cd  carpteta donde se encuentra el proyecto y ejecutas.
 
 
 
