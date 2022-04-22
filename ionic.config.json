@@ -1,0 +1,7 @@
+{
+  "name": "app-hogarest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
