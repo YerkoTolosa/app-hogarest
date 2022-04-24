@@ -15,12 +15,17 @@ Este es un proyecto para Portafolio de Titulo DuocUC.
 
 # Como ejecutar:
 
-Camara: npm install @capacitor/camera
-Recursos nativos de celular: npm install @ionic-native/core
-Compilacion: ionic build
-Capacitor de android: npm install @capacitor/android
-Exportacion: npx cap add android
-Ejecutar en un emulador: ionic cap run android --livereload --external
+- Camara: npm install @capacitor/camera-
+- Recursos nativos de celular: npm install @ionic-native/core
+- Compilacion: ionic build
+- Capacitor de android: npm install @capacitor/android
+- Exportacion: npx cap add android
+- Ejecutar en un emulador: ionic cap run android --livereload --external
+
+
+
+
+
 
 
 
