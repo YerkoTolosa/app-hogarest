@@ -20,7 +20,6 @@ export class InicioPage implements OnInit {
 //FUNCION QUE TE LLEVA AL PERFIL
   perfil() {
     this.navController.navigateRoot('perfil')
-
   }
 
   //FUNCION PARA MOSTRAR FICHA

@@ -9,9 +9,10 @@ import { AppRoutingModule } from './app-routing.module';
 import { HttpClientModule } from '@angular/common/http';
 import { MenuPrincipalComponent } from './components/menu-principal/menu-principal.component';
 
+
 @NgModule({
   declarations: [AppComponent, MenuPrincipalComponent],
-  entryComponents: [],
+  entryComponents: [  ],
   imports: [BrowserModule, IonicModule.forRoot(), AppRoutingModule, HttpClientModule],
   providers: [{ provide: RouteReuseStrategy, useClass: IonicRouteStrategy }],
   exports: [MenuPrincipalComponent],
